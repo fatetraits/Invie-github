@@ -1,2 +1,2 @@
 # Invie-github
-My Best Guitars
+My Best Guitars by @Platzi 
